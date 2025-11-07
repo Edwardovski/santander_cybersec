@@ -1,5 +1,5 @@
 # santander_cybersec
-Conteúdo do curso santander ciber segurança 2025 
+Conteúdo do curso santander cyber segurança 2025 
 
 A primeira tarefa do curso foi um brute force no serviço ftp do metasploitable 2. De início, comecei verificando as portas e serviços abertos no metasploitable 2 usando o nmap com o comando 
 nmap -sv -P 21,22,23,25,139,445 
